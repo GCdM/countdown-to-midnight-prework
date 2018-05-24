@@ -5,4 +5,5 @@ def countdown(num)
     puts "#{num} SECOND(S)!"
     num--
   end
+  puts "HAPPY NEW YEAR!"
 end
